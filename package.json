@@ -1,0 +1,16 @@
+{
+    "name": "dpu-touch",
+    "version": "0.0.2",
+    "description": "",
+    "main": "dpu-touch.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Philip Alexander Hassialis",
+    "license": "GPL 3.0",
+    "bin": {
+        "dpu-touch": "./dpu-touch.js",
+        "touch": "./dpu-touch.js"
+    }
+}
